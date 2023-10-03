@@ -8,3 +8,9 @@
 
 ➔ Ajouter la commande qui permet de pull.
     git pull origin nom_de_la_branche
+
+➔ Pour créer une nouvelle branche
+    git branch nom_de_la_nouvelle_branche
+
+➔ Pour basculer sur une autre branche
+    git checkout nom_de_la_branche_cible
